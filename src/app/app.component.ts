@@ -60,6 +60,7 @@ update(){
     })
     //this.products.push(newProduct)
     this.productForm.reset()
+    this.editP=false
   }
 
 }
